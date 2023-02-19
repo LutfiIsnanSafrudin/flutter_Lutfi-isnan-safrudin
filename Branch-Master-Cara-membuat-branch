@@ -1,0 +1,11 @@
+branch adalah cara yang sangat baik dalam mengerjakan aplikasi Anda sambil melacak tiap versinya. 
+Secara umum, development branch adalah bifurkasi dari kondisi kode yang membuat alur baru bagi evolusinya.
+
+
+Membuat Branch Master
+1. masuk ke github
+2. cari create new branch
+3. masukan nama file branch
+4. isi file
+5. commit
+6. selesai
